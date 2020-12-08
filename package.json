@@ -1,0 +1,17 @@
+{
+  "name": "node_test_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
